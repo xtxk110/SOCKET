@@ -1,0 +1,2 @@
+2018-04-23 09:20:36：数据接收处错误:mscorlib->Boolean ContainsKey(TKey)->值不能为 null。
+参数名: key->{"ServerAction":"Login","UserCode":"TV1"}

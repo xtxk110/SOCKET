@@ -1,0 +1,9 @@
+2018-04-25 15:54:56：System->Int32 EndReceive(System.IAsyncResult)->远程主机强迫关闭了一个现有的连接。
+2018-04-25 15:54:56：System->System.IAsyncResult BeginReceive(Byte[], Int32, Int32, System.Net.Sockets.SocketFlags, System.Net.Sockets.SocketError ByRef, System.AsyncCallback, System.Object)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-25 16:09:44：System->System.Net.Sockets.Socket EndAccept(System.IAsyncResult)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-25 21:29:25：System->System.Net.Sockets.Socket EndAccept(System.IAsyncResult)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-25 21:29:32：System->System.Net.Sockets.Socket EndAccept(System.IAsyncResult)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。

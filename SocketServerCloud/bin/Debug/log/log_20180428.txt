@@ -1,0 +1,4 @@
+2018-04-28 16:36:33：System->System.Net.Sockets.Socket EndAccept(System.IAsyncResult)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-28 16:38:31：System->System.Net.Sockets.Socket EndAccept(System.IAsyncResult)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。

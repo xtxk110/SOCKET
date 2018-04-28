@@ -1,0 +1,15 @@
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\obj\Debug\SocketServerCloud.Properties.Resources.resources
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\obj\Debug\SocketServerCloud.csproj.GenerateResource.Cache
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\obj\Debug\SocketServerCloud.csproj.CoreCompileInputs.cache
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\SocketServerCloud.exe.config
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\SocketServerCloud.exe
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\SocketServerCloud.pdb
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\Dapper.dll
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\Newtonsoft.Json.dll
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\Dapper.pdb
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\Dapper.xml
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\bin\Debug\Newtonsoft.Json.xml
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\obj\Debug\SocketServerCloud.exe
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\obj\Debug\SocketServerCloud.pdb
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\obj\Debug\SocketServerCloud.csprojResolveAssemblyReference.cache
+E:\开发项目\vscode\SocketServerCloud\SocketServerCloud\obj\Debug\SocketServerCloud.SocketCloud.resources

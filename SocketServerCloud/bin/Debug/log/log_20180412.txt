@@ -1,0 +1,23 @@
+2018-04-12 17:51:13：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:51:43：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:03：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:03：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:03：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:22：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:22：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:34：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:35：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:52:52：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:53:05：System->System.IAsyncResult BeginReceive(Byte[], Int32, Int32, System.Net.Sockets.SocketFlags, System.AsyncCallback, System.Object)->由于以前的关闭调用，套接字在那个方向已经关闭，发送或接收数据的请求没有被接受。
+2018-04-12 17:53:40：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:54:10：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:54:40：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:55:10：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:55:40：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:56:10：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:56:40：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:57:10：Newtonsoft.Json->Boolean ParseValue()->Unexpected character encountered while parsing value: $. Path '', line 0, position 0.
+2018-04-12 17:57:24：System->Int32 EndReceive(System.IAsyncResult, System.Net.Sockets.SocketError ByRef)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-12 17:57:24：System->System.IAsyncResult BeginReceive(Byte[], Int32, Int32, System.Net.Sockets.SocketFlags, System.Net.Sockets.SocketError ByRef, System.AsyncCallback, System.Object)->无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
